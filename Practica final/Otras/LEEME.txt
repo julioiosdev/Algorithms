@@ -1,0 +1,4 @@
+Para el funcionamiento de la práctica se ha utilizado dev-C++ 4.9.9.2
+
+fichero PracticaAlgoritmia.cpp --> contiene el main
+fichero PracticaAlgotimia.h --> las cabeceras del programa
